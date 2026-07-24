@@ -1,0 +1,6 @@
+
+
+"AadClientId": "ab3a65f7-5081-4cf7-a7d5-7d199ca07a8b",
+"AadSecret": "9Pg8Q~TkRIGZ-V8N~fezVqAD3Rsj468Nd7k_cb7K",
+"AadTenantDomain": "henkelgroupdev.onmicrosoft.com",
+"AadTenantId": "b81d4ce5-cf14-4a10-8b14-ea44b1a6509d",
